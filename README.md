@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40victorgg00&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvictorgg00)
+![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40victorgg00&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvictorgg00)
 
 ## I'm a Student and Developer!!
 
@@ -45,13 +45,6 @@
 ---
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VGDev1&show_icons=true&hide_border=true&theme=dracula" />
-
--
--
--
--
--
--
 
 [website]: https://www.vmarket.se/about/
 [twitter]: https://twitter.com/victorgg00
