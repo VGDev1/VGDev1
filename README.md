@@ -2,14 +2,14 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40victorgg00&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvictorgg00)
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 ## I'm a Student and Developer!!
 
 - 💻 I just shared my new Neovim config!
 - ⚡ I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📃 2020 Goals: Contribute more to Open Source projects
-
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Connect with me
 
