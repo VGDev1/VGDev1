@@ -4,10 +4,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-## I'm a Student and Developer!!
+## I'm a Student and Developer!
 
 - 💻 I just shared my new Neovim config!
-- ⚡ I’m currently learning everything 🤣
+- ⚡ I’m currently learning typescript.
 - 👯 I’m looking to collaborate with other content creators
 - 📃 2020 Goals: Contribute more to Open Source projects
 
