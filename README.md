@@ -42,7 +42,7 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VGDev1&show_icons=true&hide_border=true&theme=dracula" />
+[![Victors's GitHub stats](https://github-readme-stats.vercel.app/api?username=VGDev1&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.vmarket.se/about/
 [twitter]: https://twitter.com/victorgg00
