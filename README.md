@@ -6,10 +6,10 @@
 
 ## I'm a Student and Developer!
 
-- 💻 I just shared my new Neovim config!
-- ⚡ I’m currently learning typescript.
+- 💻 I just started learning C.
+- ⚡ I’m currently working at ATcron AB as lead developer.
 - 👯 I’m looking to collaborate with other content creators
-- 📃 2020 Goals: Contribute more to Open Source projects
+- 📃 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
