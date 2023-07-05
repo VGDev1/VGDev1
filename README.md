@@ -9,7 +9,7 @@
 - 💻 I just started learning C.
 - ⚡ I’m currently working at ATcron AB as lead developer.
 - 👯 I’m looking to collaborate with other content creators
-- 📃 2022 Goals: Contribute more to Open Source projects
+- 📃 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
