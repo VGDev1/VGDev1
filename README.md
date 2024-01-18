@@ -4,12 +4,12 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-## I'm a Student and Developer!
+## I'm a Cloud Specialists Engineer!
 
-- 💻 I just started learning C.
+- 💻 I just started learning Rust.
 - ⚡ I’m currently working at ATcron AB as lead developer.
 - 👯 I’m looking to collaborate with other content creators
-- 📃 2023 Goals: Contribute more to Open Source projects
+- 📃 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
