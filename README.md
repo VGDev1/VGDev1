@@ -1,7 +1,5 @@
 ### Hi there, I'm Victor 👋
 
-![Twitter Follow](https://img.shields.io/twitter/url?label=Follow%20%40victorgg00&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvictorgg00)
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ## I'm a Fullstack IoT Developer!
