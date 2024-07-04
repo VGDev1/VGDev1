@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png" /><br />
+<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png" />
 <img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.png" />
 <img align="left" alt="Scala" width="26px" height="30px" src="https://raw.githubusercontent.com/kaeawc/scala-logo/master/img/logo.png" />
