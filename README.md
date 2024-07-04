@@ -4,7 +4,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-## I'm a Cloud Specialists Engineer!
+## I'm a Fullstack IoT Developer!
 
 - 💻 I just started learning Rust.
 - ⚡ I’m currently working at ATcron AB as lead developer.
