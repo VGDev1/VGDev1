@@ -4,10 +4,10 @@
 
 ## I'm a Fullstack IoT Developer!
 
-- 💻 I just started learning Rust.
-- ⚡ I’m currently working at ATcron AB as lead developer.
+- 💻 I currently coding alot of GO.
+- ⚡ I’m currently working at ATcron AB as a software engineer.
 - 👯 I’m looking to collaborate with other content creators
-- 📃 2024 Goals: Contribute more to Open Source projects
+- 📃 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me
 
